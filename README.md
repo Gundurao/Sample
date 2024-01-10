@@ -1,3 +1,3 @@
 #GIT
 
-Demo Git Commands.
+Demo Git Commands!
